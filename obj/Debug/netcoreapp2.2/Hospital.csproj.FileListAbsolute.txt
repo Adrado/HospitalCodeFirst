@@ -1,0 +1,13 @@
+C:\Dev\HospitalCodeFirst\Hospital\bin\Debug\netcoreapp2.2\Hospital.deps.json
+C:\Dev\HospitalCodeFirst\Hospital\bin\Debug\netcoreapp2.2\Hospital.runtimeconfig.json
+C:\Dev\HospitalCodeFirst\Hospital\bin\Debug\netcoreapp2.2\Hospital.runtimeconfig.dev.json
+C:\Dev\HospitalCodeFirst\Hospital\bin\Debug\netcoreapp2.2\Hospital.dll
+C:\Dev\HospitalCodeFirst\Hospital\obj\Debug\netcoreapp2.2\Hospital.csproj.CoreCompileInputs.cache
+C:\Dev\HospitalCodeFirst\Hospital\obj\Debug\netcoreapp2.2\Hospital.RazorAssemblyInfo.cache
+C:\Dev\HospitalCodeFirst\Hospital\obj\Debug\netcoreapp2.2\Hospital.RazorAssemblyInfo.cs
+C:\Dev\HospitalCodeFirst\Hospital\obj\Debug\netcoreapp2.2\Hospital.AssemblyInfoInputs.cache
+C:\Dev\HospitalCodeFirst\Hospital\obj\Debug\netcoreapp2.2\Hospital.AssemblyInfo.cs
+C:\Dev\HospitalCodeFirst\Hospital\obj\Debug\netcoreapp2.2\Hospital.RazorTargetAssemblyInfo.cache
+C:\Dev\HospitalCodeFirst\Hospital\bin\Debug\netcoreapp2.2\Hospital.pdb
+C:\Dev\HospitalCodeFirst\Hospital\obj\Debug\netcoreapp2.2\Hospital.dll
+C:\Dev\HospitalCodeFirst\Hospital\obj\Debug\netcoreapp2.2\Hospital.pdb
